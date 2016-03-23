@@ -22,6 +22,10 @@ Hookup Guide
 ------------
 * [SparkFun USB to serial UART Boards Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-usb-to-serial-uart-boards-hookup-guide?_ga=1.60838636.1759283908.1446057952)
 
+Additional References
+---------------------
+* [Background on Serial Communication](https://learn.sparkfun.com/tutorials/serial-communication)
+
 License Information
 -------------------
 The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).

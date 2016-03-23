@@ -17,11 +17,10 @@ Product Versions
 ----------------
 * [DEV-09873](https://www.sparkfun.com/products/9873)- 3.3V FTDI Basic Breakout. 
 * [DEV-09716](https://www.sparkfun.com/products/9716)- 5V FTDI Basic Breakout
-* 
 
 Hookup Guide
 ------------
-*[SparkFun USB to serial UART Boards Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-usb-to-serial-uart-boards-hookup-guide?_ga=1.60838636.1759283908.1446057952)
+* [SparkFun USB to serial UART Boards Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-usb-to-serial-uart-boards-hookup-guide?_ga=1.60838636.1759283908.1446057952)
 
 License Information
 -------------------
